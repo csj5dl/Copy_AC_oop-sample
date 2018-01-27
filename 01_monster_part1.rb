@@ -10,7 +10,7 @@ class Monster
     puts "遇到怪獸 #{@name} 了!"
     puts "生命力(HP)：#{@hp}"
     puts "攻擊力(AP)：#{@ap}"
-    puts ""
+    puts "---"
   end
 
 end
